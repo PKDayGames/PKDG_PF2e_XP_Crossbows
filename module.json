@@ -1,16 +1,20 @@
 {
   "name": "pkdg-xp-crossbows",
-  "title": "P.K.Dday Games Expansion Pack - Crossbows",
+  "title": "P.K.Day Games Expansion Pack - Crossbows",
   "description": "A P. K. Day Games Pathfinder 2e Expansion Pack for brand new crossbows and related equipment and archetypes to add to your campaigns!.",
   "author": "P.K. Day",
   "version": "0.0.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
 
+  "url": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows",
+  "manifest": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows/releases/download/latest/module.json",
+  "download": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbow/releases/download/0.0.1/module.zip"
+
   "packs": [
     {
       "name": "scenes",
-      "label": "CXP Scenes",
+      "label": "XP Crossbows Scenes",
       "path": "packs/scenes.db",
       "entity": "Scene",
       "type": "Scene",
@@ -18,7 +22,7 @@
     },
     {
       "name": "actors",
-      "label": "CXP Actors",
+      "label": "XP Crossbows Actors",
       "path": "packs/actors.db",
       "entity": "Actor",
       "type": "Actor",
@@ -26,7 +30,7 @@
     },
     {
       "name": "items",
-      "label": "CXP Items",
+      "label": "XP Crossbows Items",
       "path": "packs/items.db",
       "entity": "Item",
       "type": "Item",
@@ -34,7 +38,7 @@
     },
     {
       "name": "dwarven-shootist",
-      "label": " CXP Dwarven Shootist",
+      "label": "XP Crossbows Dwarven Shootist",
       "path": "packs/dwarven-shootist.db",
       "entity": "Item",
       "type": "Item",
@@ -42,13 +46,11 @@
     },
     {
       "name": "journalentries",
-      "label": "CXP Journal Entries",
+      "label": "XP Crossbows Journal Entries",
       "path": "packs/journalentries.db",
       "entity": "JournalEntry",
       "type": "JournalEntry",
       "module": "pkdg-xp-crossbows"
     }
   ]
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
 }
