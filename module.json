@@ -6,10 +6,10 @@
   "version": "0.0.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
-	
+
   "url": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows",
-  "manifest": "https://raw.githubusercontent.com/PKDayGames/PKDG_PF2e_XP_Crossbows/main/module.json",
-  "download": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows/blob/main/pkdg-xp-crossbows.zip?raw=true",
+  "manifest": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows/releases/download/latest/module.json",
+  "download": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbow/releases/download/0.0.1/module.zip",
 
   "packs": [
     {
