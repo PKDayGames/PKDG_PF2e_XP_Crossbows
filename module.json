@@ -9,7 +9,7 @@
 
   "url": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows",
   "manifest": "https://raw.githubusercontent.com/PKDayGames/PKDG_PF2e_XP_Crossbows/main/module.json",
-  "download": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbow/releases/download/0.0.1/module.zip",
+  "download": "https://github.com/PKDayGames/PKDG_PF2e_XP_Crossbows/raw/main/pkdg-xp-crossbows.zip",
 
   "packs": [
     {
